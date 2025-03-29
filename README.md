@@ -1,24 +1,24 @@
 # Список программ
 
 ### **1. База**  
-1. [MSI Afterburner]()  
+1. [MSI Afterburner](https://ru.msi.com/Landing/afterburner/graphics-cards)  
 2. RTSS  
-3. [ISLC]()
-4. [7-Zip]()
-5. [WinRAR]()
-6. [AMD Adrenalin]()
-7. [HWiNFO]()
-8. [WinTweaker]()
+3. [ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=1256)
+4. [7-Zip](https://www.7-zip.org/)
+5. [WinRAR](https://www.win-rar.com/start.html?&L=4)
+6. [AMD Adrenalin](https://www.amd.com/en/support/downloads/drivers.html/graphics/radeon-rx/radeon-rx-6000-series/amd-radeon-rx-6600.html)
+7. [HWiNFO](https://www.hwinfo.com/)
+8. [WinTweaker](https://www.softportal.com/software-45430-win-10-tweaker.html)
 
 ### **2. Оптимизация и обслуживание ПК**  
-1. [Driver Booster]()  
-2. [ASC]()  
-3. [GearUP Booster]()  
-4. [Blade Pro Soft]()  
+1. [Driver Booster](https://1progs.ru/iobit-driver-booster-pro/)  
+2. [ASC](https://1progs.ru/advanced-systemcare-pro/)  
+3. [GearUP Booster](https://www.gearupbooster.com/)  
+4. Blade Pro Soft  
 
 ### **3. Игры и игровые платформы**  
-1. [Steam]()   
-2. [BSG Launcher]()  
+1. [Steam](https://store.steampowered.com/about/)   
+2. BSG Launcher 
 3. [FACEIT]()
 4. [FACEIT AC]()  
 5. [uTorrent]()
