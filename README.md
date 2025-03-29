@@ -2,7 +2,7 @@
 
 ### **1. База**  
 1. [MSI Afterburner]()  
-2. [RTSS  
+2. RTSS  
 3. [ISLC]()
 4. [7-Zip]()
 5. [WinRAR]()
