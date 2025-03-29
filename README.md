@@ -8,7 +8,6 @@
 5. WinRAR
 6. AMD Adrenalin
 7. HWiNFO
-8.    
 
 ### **2. Оптимизация и обслуживание ПК**  
 1. Driver Booster  
